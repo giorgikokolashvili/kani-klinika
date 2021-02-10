@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'BPG Banner ExtraSquare Caps';
+    src: url('../fonts/bpg-banner-extrasquare-caps-webfont.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/bpg-banner-extrasquare-caps-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/bpg-banner-extrasquare-caps-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/bpg-banner-extrasquare-caps-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/bpg-banner-extrasquare-caps-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/bpg-banner-extrasquare-caps-webfont.svg#bpg_banner_extrasquare_capsregular') format('svg'); /* Legacy iOS */
+}
+@font-face{font-family:'BPG Banner ExtraSquare Caps';src:url(../fonts/bpg-banner-extrasquare-caps-webfont.eot);src:url(../fonts/bpg-banner-extrasquare-caps-webfont.eot?#iefix) format('embedded-opentype'),url(../fonts/bpg-banner-extrasquare-caps-webfont.woff2) format('woff2'),url(../fonts/bpg-banner-extrasquare-caps-webfont.woff) format('woff'),url(../fonts/bpg-banner-extrasquare-caps-webfont.ttf) format('truetype'),url(../fonts/bpg-banner-extrasquare-caps-webfont.svg#bpg_banner_extrasquare_capsregular) format('svg')}
+@font-face {
+    font-family: 'Sriracha';
+    src: url('../fonts/Sriracha-Regular.eot');
+    src: url('../fonts/Sriracha-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Sriracha-Regular.woff2') format('woff2'),
+        url('../fonts/Sriracha-Regular.woff') format('woff'),
+        url('../fonts/Sriracha-Regular.svg#Sriracha-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
