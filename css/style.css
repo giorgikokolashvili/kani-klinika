@@ -263,7 +263,7 @@ footer {
         width:100%;
         left:0;
         margin-left:0;
-        top:6.5%;
+        top:9.5%;
         border-radius:0;
         display:-webkit-box;
         display:-ms-flexbox;
@@ -274,7 +274,7 @@ footer {
         z-index:999;
     }
     .banner-image{
-        margin-top:15%;
+        margin-top:20%;
     }
     .column {
         margin-top:16px;
@@ -284,6 +284,18 @@ footer {
     }
     .card{
         margin-top:16px;
+    }
+    .send-contact {
+        padding: 10px;
+    }
+    .email {
+        width:100%;
+    }
+    .tel{
+        width:100%;
+    }
+    textarea {
+        resize:none;
     }
 }
 
